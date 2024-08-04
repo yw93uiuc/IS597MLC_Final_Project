@@ -6,14 +6,24 @@ This project aims to predict student loan default rates using machine learning m
 ## Structure
 - `data/`: Contains the datasets used for the project.
 - `notebooks/`: Contains Jupyter Notebooks for data analysis, preprocessing, model training, and evaluation.
-  - `01_EDA.ipynb`
-  - `02_Data_Preprocessing.ipynb`
-  - `03_Model_Training.ipynb`
-  - `04_Model_Evaluation.ipynb`
+  - `01_Data_Preprocessing.ipynb`
+  - `02_EDA.ipynb`
+  - `03_Model_Training_and_Evaluatin.ipynb`
+  - `04_Feature_Importance.ipynb`
+  - `README.md`: Project documentation.
 
 ## Setup
-1. Clone the repository:
+
+### Prerequisites
+- Python 3.8 or higher
+- Jupyter Notebook
+- Git
+
+### Installation
+
+- Clone the repository:
    ```bash
    git clone https://github.com/yw93uiuc/IS597MLC_Final_Project.git
    cd IS597MLC_Final_Project
+
 
